@@ -6,9 +6,9 @@ def welcome_assignment_answers(question):
     #The student doesn't have to follow the skeleton for this assignment.
     #Another way to implement is using a "case" statements similar to C.
     if question == "Are encoding and encryption the same? - Yes/No":
-        answer = "Yes"
+        answer = "No"
     elif question == "Is it possible to decrypt a message without a key? - Yes/No":
-        answer = "Yes"
+        answer = "No"
     elif question == "In Slack, what is the secret passphrase posted in the #lab-python-getting-started channel posted by a TA?":
         answer = "mtls"
     elif question == "Is it possible to decode a message without a key? - Yes/No":
